@@ -1,21 +1,21 @@
 
 .idea
-dashsboard-api/node_modules/
-dashsboard-api/.cubestore/
-dashsboard-api/upstream/
+dashboard-api/node_modules/
+dashboard-api/.cubestore/
+dashboard-api/upstream/
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-dashsboard-frontend/node_modules/
-dashsboard-frontend/.pnp
-dashsboard-frontend/.pnp.js
+dashboard-frontend/node_modules/
+dashboard-frontend/.pnp
+dashboard-frontend/.pnp.js
 
 # testing
-dashsboard-frontend/coverage/
+dashboard-frontend/coverage/
 
 # production
-dashsboard-frontend/build/
+dashboard-frontend/build/
 
 # misc
 dashsboard-frontend/.DS_Store
