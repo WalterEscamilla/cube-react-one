@@ -1,0 +1,28 @@
+
+dashsboard-api/node_modules
+dashsboard-api/.cubestore
+dashsboard-api/upstream
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+dashsboard-frontend/node_modules
+dashsboard-frontend/.pnp
+dashsboard-frontend/.pnp.js
+
+# testing
+dashsboard-frontend/coverage
+
+# production
+dashsboard-frontend/build
+
+# misc
+dashsboard-frontend/.DS_Store
+dashsboard-frontend/.env.local
+dashsboard-frontend/.env.development.local
+dashsboard-frontend/.env.test.local
+dashsboard-frontend/.env.production.local
+
+dashsboard-frontend/npm-debug.log*
+dashsboard-frontend/yarn-debug.log*
+dashsboard-frontend/yarn-error.log*
